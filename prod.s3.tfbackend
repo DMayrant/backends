@@ -1,0 +1,5 @@
+# for illustration purposes
+
+bucket = "terraform-bucket4567" 
+key    = "04-backends/prod/state.tfstate"          
+region = "us-east-1"     
