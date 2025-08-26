@@ -13,7 +13,7 @@ backend configuration
 
 local backends
 
-terraform clod
+terraform cloud
 
 3rd party remote backends such as s3, Azure Blob Storage, or Google Cloud Storage
 
